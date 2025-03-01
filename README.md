@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola 👋, Soy Jorge Brandan, Desarrallodor Front-End
 
 <!--
 **jcbrandan31/jcbrandan31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
